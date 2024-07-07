@@ -4,7 +4,7 @@ Capstone project on Pneumonia Detection prepared by me and my team members for o
 
 Skill-set used:
 
-Python; Keras; Tensorflow; CV; CNN; RCNN; MobileNetV2; Pickle
+Python; Numpy; Pandas; MatPlotLib; Seaborn; Skikit-Learn; Keras; Tensorflow; CV; CNN; RCNN; MobileNetV2; Pickle
 
 EDA and Data Pre-processing
 
